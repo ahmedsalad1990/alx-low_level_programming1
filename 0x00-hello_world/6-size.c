@@ -10,7 +10,7 @@
 int main(void)
 {
 	char c;
-	int t;
+	int i;
 	long li;
 	long long lli;
 	float f;
@@ -22,3 +22,4 @@ int main(void)
 	printf("Size of a float: %ld byte(s)\n", sizeof(f));
 	return (0);
 }
+
